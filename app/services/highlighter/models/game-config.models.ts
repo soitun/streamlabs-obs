@@ -581,6 +581,7 @@ const DEADLOCK: IGameConfig = {
   name: EGame.DEADLOCK,
   label: 'Deadlock',
   gameModes: '',
+  titleIcon: 'unset',
   thumbnail: `${thumbnailPath}${EGame.DEADLOCK}.png`,
   state: EGameState.LIVE,
   inputTypeMap: {
